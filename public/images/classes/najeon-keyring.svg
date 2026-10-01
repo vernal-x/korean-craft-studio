@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+  <title>나전 키링 만들기 클래스 일러스트</title>
+  <rect width="480" height="360" fill="#f6f0e4"/>
+  <rect y="290" width="480" height="70" fill="#cdbd9f"/>
+  <circle cx="190" cy="70" r="26" fill="none" stroke="#2a2521" stroke-width="6"/>
+  <path d="M190 96 V120" stroke="#2a2521" stroke-width="6"/>
+  <rect x="140" y="120" width="100" height="150" rx="18" fill="#2a2521"/>
+  <g transform="translate(190 195)" fill="#f6f0e4" stroke="#cdbd9f" stroke-width="2">
+    <ellipse cx="0" cy="-30" rx="12" ry="22"/>
+    <ellipse cx="0" cy="30" rx="12" ry="22"/>
+    <ellipse cx="-30" cy="0" rx="22" ry="12"/>
+    <ellipse cx="30" cy="0" rx="22" ry="12"/>
+    <circle cx="0" cy="0" r="9" fill="#4a6b61"/>
+  </g>
+  <rect x="290" y="210" width="150" height="80" rx="8" fill="#cdbd9f" stroke="#2a2521" stroke-width="3"/>
+  <rect x="290" y="210" width="150" height="24" rx="8" fill="#4a6b61" stroke="#2a2521" stroke-width="3"/>
+  <ellipse cx="330" cy="262" rx="14" ry="8" fill="#f6f0e4" stroke="#2a2521" stroke-width="2"/>
+  <ellipse cx="368" cy="266" rx="10" ry="6" fill="#f6f0e4" stroke="#2a2521" stroke-width="2"/>
+  <ellipse cx="400" cy="258" rx="12" ry="7" fill="#f6f0e4" stroke="#2a2521" stroke-width="2"/>
+</svg>

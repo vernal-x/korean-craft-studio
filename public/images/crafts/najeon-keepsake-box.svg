@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+<title>나전 문갑 소함</title>
+<rect width="480" height="360" fill="#f6f0e4"/>
+<ellipse cx="240" cy="312" rx="170" ry="12" fill="#cdbd9f" opacity="0.6"/>
+<path d="M80 150 L130 100 L350 100 L400 150 Z" fill="#3a302b"/>
+<rect x="80" y="150" width="320" height="150" rx="6" fill="#2a2521"/>
+<rect x="80" y="150" width="320" height="12" fill="#1a1613"/>
+<circle cx="240" cy="172" r="7" fill="#cdbd9f"/>
+<g fill="#e9efe9" opacity="0.9">
+<circle cx="140" cy="210" r="7"/><circle cx="170" cy="240" r="5"/><circle cx="200" cy="205" r="4"/>
+<circle cx="250" cy="250" r="8"/><circle cx="290" cy="215" r="5"/><circle cx="330" cy="245" r="7"/>
+<circle cx="350" cy="205" r="4"/><circle cx="220" cy="275" r="4"/><circle cx="300" cy="278" r="4"/>
+</g>
+<g fill="#9fc4b7" opacity="0.85"><circle cx="155" cy="262" r="4"/><circle cx="270" cy="205" r="3"/><circle cx="360" cy="270" r="3"/></g>
+<path d="M150 130 Q240 112 330 130" stroke="#e9efe9" stroke-width="3" fill="none" opacity="0.6"/>
+</svg>

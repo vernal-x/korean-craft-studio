@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+  <title>도자기 만들기 클래스 일러스트</title>
+  <rect width="480" height="360" fill="#f6f0e4"/>
+  <rect y="290" width="480" height="70" fill="#cdbd9f"/>
+  <ellipse cx="170" cy="292" rx="110" ry="16" fill="#2a2521" opacity="0.12"/>
+  <rect x="70" y="268" width="200" height="22" rx="6" fill="#2a2521"/>
+  <ellipse cx="170" cy="268" rx="100" ry="14" fill="#cdbd9f" stroke="#2a2521" stroke-width="3"/>
+  <path d="M110 268 C100 200 120 150 170 140 C220 150 240 200 230 268 Z" fill="#4a6b61" stroke="#2a2521" stroke-width="3"/>
+  <ellipse cx="170" cy="140" rx="30" ry="8" fill="#2a2521" opacity="0.6"/>
+  <path d="M60 210 C80 180 110 170 130 190 L140 215 C120 230 90 235 60 210 Z" fill="#f6f0e4" stroke="#2a2521" stroke-width="3"/>
+  <path d="M280 220 C260 190 235 185 215 205 L205 228 C225 243 255 245 280 220 Z" fill="#f6f0e4" stroke="#2a2521" stroke-width="3"/>
+  <path d="M340 270 C335 230 360 215 390 215 C420 215 440 230 435 270 Z" fill="#f6f0e4" stroke="#2a2521" stroke-width="3"/>
+  <ellipse cx="387" cy="215" rx="48" ry="9" fill="#4a6b61" stroke="#2a2521" stroke-width="3"/>
+  <ellipse cx="387" cy="272" rx="48" ry="6" fill="#2a2521" opacity="0.15"/>
+  <circle cx="400" cy="70" r="26" fill="#cdbd9f"/>
+</svg>

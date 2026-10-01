@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+<title>느티나무 소반</title>
+<rect width="480" height="360" fill="#f6f0e4"/>
+<ellipse cx="240" cy="326" rx="150" ry="10" fill="#cdbd9f" opacity="0.6"/>
+<ellipse cx="240" cy="132" rx="170" ry="34" fill="#a9825c"/>
+<path d="M70 132 V150 Q70 184 240 184 Q410 184 410 150 V132 Q410 166 240 166 Q70 166 70 132 Z" fill="#7d5b3c"/>
+<path d="M120 128 Q240 144 360 128" stroke="#c4a07a" stroke-width="2" fill="none"/>
+<path d="M150 118 Q240 132 330 118" stroke="#c4a07a" stroke-width="2" fill="none"/>
+<path d="M170 180 L150 316 Q150 322 158 322 L172 322 L196 186 Z" fill="#7d5b3c"/>
+<path d="M310 186 L334 322 L348 322 Q356 322 356 316 L336 180 Z" fill="#7d5b3c"/>
+<path d="M208 186 L232 306 L248 306 L272 186 Z" fill="#8f6a47"/>
+<path d="M200 232 Q240 250 280 232" stroke="#2a2521" stroke-width="3" fill="none" opacity="0.5"/>
+</svg>

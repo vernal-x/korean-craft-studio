@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+  <title>보자기 만들기 클래스 일러스트</title>
+  <rect width="480" height="360" fill="#f6f0e4"/>
+  <rect y="290" width="480" height="70" fill="#cdbd9f"/>
+  <g stroke="#2a2521" stroke-width="3" stroke-linejoin="round">
+    <rect x="120" y="70" width="80" height="80" fill="#4a6b61"/>
+    <rect x="200" y="70" width="80" height="80" fill="#cdbd9f"/>
+    <rect x="280" y="70" width="80" height="80" fill="#f6f0e4"/>
+    <rect x="120" y="150" width="80" height="80" fill="#cdbd9f"/>
+    <rect x="200" y="150" width="80" height="80" fill="#f6f0e4"/>
+    <rect x="280" y="150" width="80" height="80" fill="#4a6b61"/>
+    <rect x="120" y="230" width="80" height="60" fill="#f6f0e4"/>
+    <rect x="200" y="230" width="80" height="60" fill="#4a6b61"/>
+    <rect x="280" y="230" width="80" height="60" fill="#cdbd9f"/>
+  </g>
+  <g stroke="#2a2521" stroke-width="2" stroke-dasharray="6 5" fill="none">
+    <path d="M200 80V140M280 160V220M160 230H190"/>
+  </g>
+  <path d="M390 230 L430 200" stroke="#2a2521" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="394" cy="227" r="3" fill="#f6f0e4"/>
+  <path d="M394 227 C380 250 400 265 380 285" fill="none" stroke="#4a6b61" stroke-width="3"/>
+  <circle cx="70" cy="260" r="22" fill="#4a6b61" stroke="#2a2521" stroke-width="3"/>
+  <circle cx="70" cy="260" r="8" fill="#f6f0e4"/>
+</svg>

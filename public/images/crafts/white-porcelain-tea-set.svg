@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+<title>백자 다기 세트</title>
+<rect width="480" height="360" fill="#f6f0e4"/>
+<rect x="40" y="296" width="400" height="10" rx="5" fill="#cdbd9f"/>
+<path d="M150 150 Q150 120 190 120 L250 120 Q290 120 290 150 L285 260 Q280 296 240 296 L200 296 Q160 296 155 260 Z" fill="#fffdf7" stroke="#2a2521" stroke-width="3"/>
+<path d="M290 160 Q335 160 335 200 Q335 238 285 240" fill="none" stroke="#2a2521" stroke-width="10" stroke-linecap="round"/>
+<path d="M152 110 L288 110" stroke="#2a2521" stroke-width="3"/>
+<rect x="190" y="96" width="60" height="14" rx="7" fill="#fffdf7" stroke="#2a2521" stroke-width="3"/>
+<path d="M150 170 L110 150" stroke="#2a2521" stroke-width="9" stroke-linecap="round"/>
+<path d="M170 200 H270" stroke="#4a6b61" stroke-width="4"/>
+<path d="M340 250 L420 250 L412 288 Q408 296 396 296 L364 296 Q352 296 348 288 Z" fill="#fffdf7" stroke="#2a2521" stroke-width="3"/>
+<path d="M352 270 H408" stroke="#4a6b61" stroke-width="3"/>
+<path d="M60 250 L130 250 L122 288 Q118 296 106 296 L84 296 Q72 296 68 288 Z" fill="#fffdf7" stroke="#2a2521" stroke-width="3"/>
+<path d="M72 270 H118" stroke="#4a6b61" stroke-width="3"/>
+</svg>

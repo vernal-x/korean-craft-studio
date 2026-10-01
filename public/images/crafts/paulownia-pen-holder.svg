@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+<title>오동나무 필통</title>
+<rect width="480" height="360" fill="#f6f0e4"/>
+<ellipse cx="240" cy="318" rx="110" ry="10" fill="#cdbd9f" opacity="0.6"/>
+<g stroke="#2a2521" stroke-width="6" stroke-linecap="round">
+<path d="M205 150 L180 50"/><path d="M240 150 L246 38" stroke="#4a6b61"/><path d="M272 150 L310 62"/>
+</g>
+<path d="M232 146 L240 150 L248 146 L246 128 Z" fill="#4a6b61"/>
+<path d="M150 150 H330 L318 312 H162 Z" fill="#c9b08a"/>
+<ellipse cx="240" cy="150" rx="90" ry="14" fill="#8a6f55"/>
+<ellipse cx="240" cy="150" rx="80" ry="10" fill="#2a2521" opacity="0.7"/>
+<path d="M175 190 Q240 202 305 190 M172 230 Q240 242 308 230 M168 272 Q240 284 312 272" stroke="#a88c63" stroke-width="2" fill="none"/>
+<path d="M150 150 H330 L328 168 H152 Z" fill="#b39a74" opacity="0.5"/>
+</svg>

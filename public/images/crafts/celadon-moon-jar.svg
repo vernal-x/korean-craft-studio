@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img">
+<title>청자 달항아리</title>
+<rect width="480" height="360" fill="#f6f0e4"/>
+<ellipse cx="240" cy="318" rx="120" ry="12" fill="#cdbd9f" opacity="0.6"/>
+<path d="M190 70 Q188 52 200 50 L280 50 Q292 52 290 70 Q420 120 400 220 Q385 305 300 312 L180 312 Q95 305 80 220 Q60 120 190 70 Z" fill="#4a6b61"/>
+<path d="M130 120 Q160 100 190 92" stroke="#f6f0e4" stroke-width="5" fill="none" opacity="0.35" stroke-linecap="round"/>
+<ellipse cx="240" cy="52" rx="42" ry="7" fill="#2a2521" opacity="0.55"/>
+<path d="M150 230 Q240 262 330 230" stroke="#cdbd9f" stroke-width="3" fill="none" opacity="0.7"/>
+</svg>

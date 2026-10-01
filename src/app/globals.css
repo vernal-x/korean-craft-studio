@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Ivory / ink / natural beige palette. Text pairs below are >= 4.5:1. */
+  --color-paper: #f6f0e4;
+  --color-surface: #fffcf5;
+  --color-ink: #2a2521;
+  --color-ink-soft: #5a5047;
+  --color-sand: #e9dfca;
+  --color-line: #cdbd9f;
+  --color-celadon: #4a6b61;
+  --color-celadon-dark: #365046;
+  --color-danger: #9a2b2b;
+  --color-success: #2b6a4b;
+
+  --font-sans:
+    "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", system-ui,
+    -apple-system, "Segoe UI", sans-serif;
+  --font-serif:
+    "Noto Serif KR", "Nanum Myeongjo", "AppleMyungjo", "Batang", Georgia,
+    serif;
+}
+
+html {
+  background: var(--color-paper);
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  line-height: 1.65;
+  word-break: keep-all;
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-celadon);
+  outline-offset: 2px;
+}
+
+dialog::backdrop {
+  background: rgb(42 37 33 / 0.55);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
